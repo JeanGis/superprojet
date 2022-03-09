@@ -1,4 +1,17 @@
 h1{
-	color: green;
+	color: yellowgreen;
+	background: initial;
 	
+}
+
+h2{
+color: blue;
+	background: purple;
+
+}
+
+
+p{
+	color: green;
+	background: navajowhite;
 }
